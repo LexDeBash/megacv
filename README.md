@@ -1,22 +1,17 @@
 <p align="center">
-
-  <img src="https://avatars.githubusercontent.com/u/45715987?v=4" alt="Alexey Efimov" width="150" style="border-radius: 50%">
-
+  <img src="https://avatars.githubusercontent.com/u/45715987?v=4" alt="Alexey Efimov" width="150" style="border-radius: 50%">
 </p>
+
 <h1 align="center">Alexey Efimov — iOS Developer</h1>
+
 <p align="center">
-
-  Saint Petersburg, Russia &nbsp;|&nbsp;
-
-  <a href="mailto:lex.efimov@gmail.com">lex.efimov@gmail.com</a> &nbsp;|&nbsp;
-
-  <a href="https://t.me/debash">@debash</a> &nbsp;|&nbsp;
-
-  <a href="https://www.linkedin.com/in/алексей-ефимов-965068129">LinkedIn</a> &nbsp;|&nbsp;
-
-  <a href="https://github.com/LexDeBash">GitHub</a>
-
+  Saint Petersburg, Russia &nbsp;|&nbsp;
+  <a href="mailto:lex.efimov@gmail.com">lex.efimov@gmail.com</a> &nbsp;|&nbsp;
+  <a href="https://t.me/debash">@debash</a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/алексей-ефимов-965068129">LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/LexDeBash">GitHub</a>
 </p>
+
 ---
 
 ## Summary
