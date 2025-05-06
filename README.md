@@ -53,10 +53,10 @@ Looking for a role in a product-focused team that values engineering culture, ar
 
 ---
 
-## 📱 App Store Projects
+## 🧪 Framework Demo
 
-- 📦 [SpringApp](https://github.com/LexDeBash/SpringApp) – animation showcase (App Store release available)
-- (Add other links here if needed)
+- 🧱 [SpringAnimation](https://github.com/LexDeBash/SpringAnimation) — custom animation framework for iOS
+- 🧪 [SpringApp](https://github.com/LexDeBash/SpringApp) — demo project for testing the framework
 
 ---
 
