@@ -1,6 +1,6 @@
 
 <p align="right">
-  <a href="./en/index.html">🇬🇧 English</a> | 🇷🇺 Русский
+  🇷🇺 Русский | <a href="https://lexdebash.github.io/megacv/en/">🇬🇧 English</a>
 </p>
 
 <p align="center">
