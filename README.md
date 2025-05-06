@@ -1,6 +1,6 @@
 
 <p align="right">
-  <a href="./en/index.html">🇬🇧 English</a>
+  <a href="./en/index.html">🇬🇧 English</a> | 🇷🇺 Русский
 </p>
 
 <p align="center">
