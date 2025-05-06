@@ -1,21 +1,25 @@
-
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/45715987?s=150" alt="Alexey Efimov" width="150" style="border-radius: 50%">
-</p>
 
+  <img src="https://avatars.githubusercontent.com/u/45715987?v=4" alt="Alexey Efimov" width="150" style="border-radius: 50%">
+
+</p>
 <h1 align="center">Alexey Efimov — iOS Developer</h1>
-
 <p align="center">
-  📍 Saint Petersburg, Russia &nbsp;|&nbsp;
-  📫 <a href="mailto:lex.efimov@gmail.com">lex.efimov@gmail.com</a> &nbsp;|&nbsp;
-  💬 <a href="https://t.me/debash">@debash</a> &nbsp;|&nbsp;
-  💼 <a href="https://www.linkedin.com/in/алексей-ефимов-965068129">LinkedIn</a> &nbsp;|&nbsp;
-  🛠️ <a href="https://github.com/LexDeBash">GitHub</a>
-</p>
 
+  Saint Petersburg, Russia &nbsp;|&nbsp;
+
+  <a href="mailto:lex.efimov@gmail.com">lex.efimov@gmail.com</a> &nbsp;|&nbsp;
+
+  <a href="https://t.me/debash">@debash</a> &nbsp;|&nbsp;
+
+  <a href="https://www.linkedin.com/in/алексей-ефимов-965068129">LinkedIn</a> &nbsp;|&nbsp;
+
+  <a href="https://github.com/LexDeBash">GitHub</a>
+
+</p>
 ---
 
-## 👨‍💻 Summary
+## Summary
 
 Middle iOS Developer with development and teaching experience since 2018.  
 Author of a comprehensive Junior iOS-Developer course at SwiftBook, covering the full iOS stack: Swift, UIKit, SwiftUI, architectural patterns (MVC, MVVM, VIPER, CleanSwift), databases (Core Data, Realm, SwiftData), networking, testing, and mentoring.  
@@ -23,11 +27,7 @@ Looking for a role in a product-focused team that values engineering culture, ar
 
 ---
 
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=swift,swiftui,uikit,combine,coredata,realm,git,xcode,spm,postman&theme=dark" />
-</p>
+## Tech Stack
 
 ### Languages
 - Swift
@@ -47,7 +47,7 @@ Looking for a role in a product-focused team that values engineering culture, ar
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 ### SwiftBook.org — Lead Instructor & iOS Course Author (2018–2025)
 
@@ -70,24 +70,24 @@ Looking for a role in a product-focused team that values engineering culture, ar
 
 ---
 
-## 🚀 Projects & Frameworks
+## Projects & Frameworks
 
-### 🧱 Frameworks
-- 📦 [SpringAnimation](https://github.com/LexDeBash/SpringAnimation) — custom animation framework for iOS  
-- 🧪 [SpringApp](https://github.com/LexDeBash/SpringApp) — demo project for testing the framework (not on App Store)
+### Frameworks
+- [SpringAnimation](https://github.com/LexDeBash/SpringAnimation) — custom animation framework for iOS  
+- [SpringApp](https://github.com/LexDeBash/SpringApp) — demo project for testing the framework (not on App Store)
 
-### ✅ Applications
-- ✅ [JustDoIt](https://github.com/LexDeBash/JustDoIt) — task manager using UIKit and Core Data with MVC  
-- 🎮 [RickAndMorty](https://github.com/LexDeBash/RickAndMorty) — iOS app consuming the Rick & Morty API using MVC and async network layer
+### Applications
+- [JustDoIt](https://github.com/LexDeBash/JustDoIt) — task manager using UIKit and Core Data with MVC  
+- [RickAndMorty](https://github.com/LexDeBash/RickAndMorty) — iOS app consuming the Rick & Morty API using MVC and async network layer
 
-### 🎮 Games
-- 🎮 [DoodleJump](https://github.com/LexDeBash/DoodleJump) — arcade game clone built with UIKit and SpriteKit  
-- 🐍 [Snake](https://github.com/LexDeBash/Snake) — classic grid-based Snake game in Swift  
-- 🐤 [FlappyBird](https://github.com/LexDeBash/FlappyBird) — SpriteKit-based Flappy Bird clone with physics and scoring
+### Games
+- [DoodleJump](https://github.com/LexDeBash/DoodleJump) — arcade game clone built with UIKit and SpriteKit  
+- [Snake](https://github.com/LexDeBash/Snake) — classic grid-based Snake game in Swift  
+- [FlappyBird](https://github.com/LexDeBash/FlappyBird) — SpriteKit-based Flappy Bird clone with physics and scoring
 
 ---
 
-## 🧠 Principles & Interests
+## Principles & Interests
 
 - Clean architecture, SOLID, scalability
 - Best practices over quick hacks
@@ -95,7 +95,7 @@ Looking for a role in a product-focused team that values engineering culture, ar
 
 ---
 
-## 🧑‍🏫 Mentoring & Teaching
+## Mentoring & Teaching
 
 - Authored a full-featured iOS course with 60+ lessons and live examples
 - Covered UIKit, SwiftUI, networking, local storage, testing, MVVM, VIPER, CleanSwift
@@ -103,7 +103,7 @@ Looking for a role in a product-focused team that values engineering culture, ar
 
 ---
 
-## ✍️ Publications
+## Publications
 
 - [Medium Blog](https://medium.com/@debash)
 - [Habr Profile](https://habr.com/ru/users/Debash/articles/)
