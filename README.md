@@ -7,7 +7,7 @@
   <img src="https://unavatar.io/github/LexDeBash" alt="Alexey Efimov" width="300" height="300">
 </p>
 
-<h1 align="center">Ефимов Алексей — iOS-разработчик</h1>
+<h1 align="center">Алексей Ефимов — iOS-разработчик</h1>
 
 **Город:** Санкт-Петербург  
 **Email:** [lex.efimov@gmail.com](mailto:lex.efimov@gmail.com)  
