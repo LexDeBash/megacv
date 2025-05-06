@@ -19,13 +19,21 @@ Looking for a role in a product-focused team that values engineering culture, ar
 
 ## 🧰 Tech Stack
 
-- **Languages:** Swift, SwiftUI, Combine, Observation
-- **Architectures:** MVC, MVVM, VIPER, Clean Swift
-- **Databases:** Core Data, Realm, SwiftData
-- **Networking:** URLSession, Alamofire, async/await
-- **Testing:** Unit Tests, UI Tests, TDD
-- **Tools:** Xcode, Git, SPM, Postman
-- **Platforms:** iOS 13–17+
+### Languages
+- Swift
+
+### Frameworks & Tools
+- SwiftUI, UIKit, Combine, Observation
+- Core Data, Realm, SwiftData
+- URLSession, Alamofire, async/await
+- Unit Testing, UI Testing, TDD
+- SPM, Git, Postman
+
+### Architectures
+- MVC
+- MVVM
+- VIPER
+- Clean Swift
 
 ---
 
@@ -41,9 +49,8 @@ Looking for a role in a product-focused team that values engineering culture, ar
 
 ### Open Source / Pet Projects — iOS Developer (2020–Present)
 
-- Published personal apps to the App Store  
-- Developed [SpringAnimation](https://github.com/LexDeBash/SpringAnimation) framework and [SpringApp](https://github.com/LexDeBash/SpringApp) demo project  
-- Maintains public and private repositories with architectural templates  
+- Published personal apps to the App Store
+- Maintains public and private repositories with architectural templates
 - GitHub contributor badge holder
 
 ### Previous Roles (2000–2016)
@@ -57,6 +64,16 @@ Looking for a role in a product-focused team that values engineering culture, ar
 
 - 📦 [SpringAnimation](https://github.com/LexDeBash/SpringAnimation) — custom animation framework for iOS  
 - 🧪 [SpringApp](https://github.com/LexDeBash/SpringApp) — demo project for testing the framework (not published to the App Store)
+
+---
+
+## 📂 Selected Projects
+
+- 🎮 [RickAndMorty](https://github.com/LexDeBash/RickAndMorty) — iOS app consuming the Rick & Morty API using MVC and async network layer  
+- 🎮 [DoodleJump](https://github.com/LexDeBash/DoodleJump) — a classic iOS arcade game clone built with SwfitUI  
+- 🐍 [Snake](https://github.com/LexDeBash/Snake) — classic Snake game implemented in Swift with SwiftUI  
+- 🐤 [FlappyBird](https://github.com/LexDeBash/FlappyBird) — iOS version of Flappy Bird built with SwiftUI
+- ✅ [JustDoIt](https://github.com/LexDeBash/JustDoIt) — task manager app using MVC and Core Data
 
 ---
 
@@ -88,3 +105,9 @@ Looking for a role in a product-focused team that values engineering culture, ar
 - Clean architecture, SOLID, scalability
 - Best practices over quick hacks
 - Passion for teaching and community contribution
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=LexDeBash&show_icons=true&theme=default)
