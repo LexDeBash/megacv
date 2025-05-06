@@ -77,10 +77,8 @@ Looking for a role in a product-focused team that values engineering culture, ar
 
 ## 📄 Resume Downloads
 
-- [PDF (EN)](./Alexey_Efimov_iOS_Resume_EN.pdf)
-- [DOCX (EN)](./Alexey_Efimov_iOS_Resume_EN.docx)
-- [JSON (HH)](./Alexey_Efimov_Resume_HH.json)
-- [JSON (LinkedIn)](./Alexey_Efimov_Resume_LinkedIn.json)
+- [PDF (EN)](./Alexey_Efimov_CV.pdf)
+- [PDF (RU)](./Ефимов_Алексей_CV.pdf)
 
 ---
 
