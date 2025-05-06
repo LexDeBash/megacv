@@ -131,4 +131,4 @@ Looking for a role in a product-focused team that values engineering culture, ar
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=LexDeBash&show_icons=true&theme=default)
+![Stats](https://github-readme-stats.vercel.app/api?username=LexDeBash&show_icons=true&theme=onedark)
