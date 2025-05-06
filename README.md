@@ -113,7 +113,6 @@
 
 ## Резюме
 
-- [![PDF_CV (EN)](https://img.shields.io/badge/📄_Download_PDF_CV_(EN)-blue)](./Alexey_Efimov_CV.pdf)
 - [![PDF_CV (EN)](https://img.shields.io/badge/📄_Download_PDF_CV_(RU)-red)](./Алексей_Ефимов_CV.pdf)
 
 ---
