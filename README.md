@@ -80,6 +80,7 @@ Looking for a role in a product-focused team that values engineering culture, ar
 - [PDF (EN)](./Alexey_Efimov_CV.pdf)
 - [PDF (RU)](./Ефимов_Алексей_CV.pdf)
 
+
 ---
 
 ## 🧠 Principles & Interests
