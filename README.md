@@ -1,40 +1,47 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/45715987?v=4" alt="Alexey Efimov" width="150" style="border-radius: 50%">
+
+<p align="right">
+  <a href="./README.en.md">🇬🇧 English</a> | 🇷🇺 Русский
 </p>
 
-<h1 align="center">Alexey Efimov — iOS Developer</h1>
-
 <p align="center">
-  Saint Petersburg, Russia &nbsp;|&nbsp;
-  <a href="mailto:lex.efimov@gmail.com">lex.efimov@gmail.com</a> &nbsp;|&nbsp;
-  <a href="https://t.me/debash">@debash</a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/алексей-ефимов-965068129">LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://github.com/LexDeBash">GitHub</a>
+  <img src="https://unavatar.io/github/LexDeBash" alt="Alexey Efimov" width="300" height="300">
 </p>
+
+<h1 align="center">Ефимов Алексей — iOS-разработчик</h1>
+
+**Город:** Санкт-Петербург  
+**Email:** [lex.efimov@gmail.com](mailto:lex.efimov@gmail.com)  
+**Telegram:** [@debash](https://t.me/debash)  
+**LinkedIn:** [Алексей Ефимов](https://www.linkedin.com/in/алексей-ефимов-965068129)  
+**GitHub:** [github.com/LexDeBash](https://github.com/LexDeBash)
 
 ---
 
-## Summary
+## Обо мне
 
-Middle iOS Developer with development and teaching experience since 2018.  
-Author of a comprehensive Junior iOS-Developer course at SwiftBook, covering the full iOS stack: Swift, UIKit, SwiftUI, architectural patterns (MVC, MVVM, VIPER, CleanSwift), databases (Core Data, Realm, SwiftData), networking, testing, and mentoring.  
-Looking for a role in a product-focused team that values engineering culture, architectural clarity, and modern best practices.
+**iOS-разработчик уровня Middle с опытом преподавания и разработки с 2018 года.**
+Создал и вёл многомодульный курс для онлайн школы SwiftBook, освещающий все ключевые аспекты iOS-разработки — от основ
+до архитектурных паттернов, работы с сетью, базами данных и тестированием.
+Специализируюсь на UIKit, SwiftUI, архитектурах (MVC, MVVM, VIPER, CleanSwift), Core Data, Realm, SwiftData и
+построении масштабируемых решений.
+**Ищу позицию в продуктовой команде, где ценят инженерный подход, архитектурную чистоту и следование**
+**best practices.**
 
 ---
 
-## Tech Stack
+## Ключевые навыки
 
-### Languages
+### Языки
 - Swift
 
-### Frameworks & Tools
+### Фреймворки и инструменты
 - SwiftUI, UIKit, Combine, Observation
 - Core Data, Realm, SwiftData
 - URLSession, Alamofire, async/await
 - Unit Testing, UI Testing, TDD
 - SPM, Git, Postman
 
-### Architectures
+### Архитектуры
 - MVC
 - MVVM
 - VIPER
@@ -42,91 +49,88 @@ Looking for a role in a product-focused team that values engineering culture, ar
 
 ---
 
-## Work Experience
+## Опыт работы
 
-### SwiftBook.org — Lead Instructor & iOS Course Author (2018–2025)
+### SwiftBook.org (2018–2025)  
+**Автор и преподаватель курса Junior iOS-Developer**
+- Разработал и выпустил обширный образовательный курс по iOS, охватывающий весь стек: от Swift до архитектур, БД, сетей и SwiftUI
+- Создал более 100 видеоуроков и туториалов
+- Настроил архитектуру и паттерны в десятках учебных проектов
+- Реализовал перенос проектов между Core Data и Realm без изменения UI-слоя
+- Продвигал best practices, выстроил линейку модулей от новичка до продвинутого уровня
 
-- Created and delivered a full multi-module iOS development curriculum
-- Trained over 2000 students from beginner to advanced levels
-- Designed reusable architecture templates and demo apps
-- Demonstrated seamless migration from Core Data to Realm
-- Promoted clean code practices and scalable solutions
+### Open Source / Pet Projects (2020–н.в.)  
+**iOS-разработчик**
+- Разработал собственный фреймворк по работе с анимациями и приложение, демонстрирующее его возможности
+- Публиковал собственные приложения в App Store
+- Участвовал в open-source (есть ачивка GitHub)
+- Поддерживаю публичные и приватные репозитории с demo-приложениями и архитектурными шаблонами
 
-### Open Source / Pet Projects — iOS Developer (2020–Present)
-
-- Published personal apps to the App Store
-- Maintains public and private repositories with architectural templates
-- GitHub contributor badge holder
-
-### Previous Roles (2000–2016)
-
-- Worked in automation and systems analysis (Parus, ISK, Inform-Standard)
-- Last role: Owner & CEO of a software solutions company
-
----
-
-## Projects & Frameworks
-
-### Frameworks
-- [SpringAnimation](https://github.com/LexDeBash/SpringAnimation) — custom animation framework for iOS  
-- [SpringApp](https://github.com/LexDeBash/SpringApp) — demo project for testing the framework (not on App Store)
-
-### Applications
-- [JustDoIt](https://github.com/LexDeBash/JustDoIt) — task manager using UIKit and Core Data with MVC  
-- [RickAndMorty](https://github.com/LexDeBash/RickAndMorty) — iOS app consuming the Rick & Morty API using MVC and async network layer
-
-### Games
-- [DoodleJump](https://github.com/LexDeBash/DoodleJump) — arcade game clone built with UIKit and SpriteKit  
-- [Snake](https://github.com/LexDeBash/Snake) — classic grid-based Snake game in Swift  
-- [FlappyBird](https://github.com/LexDeBash/FlappyBird) — SpriteKit-based Flappy Bird clone with physics and scoring
+### Автоматизация и аналитика (2000–2016)  
+**Системный аналитик / Руководитель**
+- Опыт руководства, аналитики и автоматизации в ряде компаний (Парус, ИСК, Информ-Стандарт, Лотерейные технологии)
+- Последняя должность — владелец и руководитель компании по разработке лотерейных технологий
 
 ---
 
-## Principles & Interests
+## Образование
 
-- Clean architecture, SOLID, scalability
-- Best practices over quick hacks
-- Passion for teaching and community contribution
-
----
-
-## Mentoring & Teaching
-
-- Authored a full-featured iOS course with 60+ lessons and live examples
-- Covered UIKit, SwiftUI, networking, local storage, testing, MVVM, VIPER, CleanSwift
-- Mentored students 1-on-1 and through group lessons
+**Академия труда и социальных отношений, Москва**
+*Специальность: Бухгалтерский учёт и аудит*
+**2003**
 
 ---
 
-## Publications
+## Проекты и фреймворки
 
-- [Medium Blog](https://medium.com/@debash)
-- [Habr Profile](https://habr.com/ru/users/Debash/articles/)
+### Фреймворки
+
+- [SpringAnimation](https://github.com/LexDeBash/SpringAnimation) — кастомный анимационный фреймворк  
+- [SpringApp](https://github.com/LexDeBash/SpringApp) — демо-приложение для тестирования фреймворка (не опубликовано)
+
+### Приложения
+
+- [JustDoIt](https://github.com/LexDeBash/JustDoIt) — менеджер задач на UIKit и Core Data  
+- [Basic](https://github.com/LexDeBash/Basic) — коллекция упражнений и базовых шаблонов
+
+### Игры
+
+- [DoodleJump](https://github.com/LexDeBash/DoodleJump) — аркада с физикой на SpriteKit  
+- [Snake](https://github.com/LexDeBash/Snake) — реализация классической "Змейки"  
+- [FlappyBird](https://github.com/LexDeBash/FlappyBird) — Flappy Bird с физикой и подсчётом очков
 
 ---
 
-## 📄 Resume Downloads
+## Преподавание и менторство
+
+- Автор полного курса по iOS-разработке (60+ уроков)
+- Темы: UIKit, SwiftUI, сеть, базы данных, архитектура, тестирование
+- Наставничество в формате 1-на-1 и групповых занятий
+
+---
+
+## Публикации
+
+- [Medium](https://medium.com/@debash)  
+- [Хабр](https://habr.com/ru/users/Debash/articles/)
+
+---
+
+## Резюме
 
 - [![PDF_CV (EN)](https://img.shields.io/badge/📄_Download_PDF_CV_(EN)-blue)](./Alexey_Efimov_CV.pdf)
 - [![PDF_CV (EN)](https://img.shields.io/badge/📄_Download_PDF_CV_(RU)-red)](./Ефимов_Алексей_CV.pdf)
 
-
 ---
 
-## 🏆 GitHub Trophy
-
-  
+## GitHub Трофеи
 
 <p align="center">
-
-  <img src="https://github-profile-trophy.vercel.app/?username=LexDeBash&theme=onedark" />
-
+  <img src="https://github-profile-trophy.vercel.app/?username=LexDeBash&theme=onedark" />
 </p>
-
-  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Статистика
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=LexDeBash&show_icons=true&theme=default)
