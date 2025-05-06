@@ -1,15 +1,33 @@
 
-# Alexey Efimov — iOS Developer
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/45715987?s=150" alt="Alexey Efimov" width="150" style="border-radius: 50%">
+</p>
 
-📍 Saint Petersburg, Russia  
-📫 Email: [lex.efimov@gmail.com](mailto:lex.efimov@gmail.com)  
-💬 Telegram: [@debash](https://t.me/debash)  
-💼 LinkedIn: [Aleksey Efimov](https://www.linkedin.com/in/алексей-ефимов-965068129)  
-🛠 GitHub: [github.com/LexDeBash](https://github.com/LexDeBash)
+<h1 align="center">Alexey Efimov — iOS Developer</h1>
+
+<p align="center">
+  📍 Saint Petersburg, Russia &nbsp;|&nbsp;
+  📫 <a href="mailto:lex.efimov@gmail.com">lex.efimov@gmail.com</a> &nbsp;|&nbsp;
+  💬 <a href="https://t.me/debash">@debash</a> &nbsp;|&nbsp;
+  💼 <a href="https://www.linkedin.com/in/алексей-ефимов-965068129">LinkedIn</a> &nbsp;|&nbsp;
+  🛠️ <a href="https://github.com/LexDeBash">GitHub</a>
+</p>
+
+---
+
+## 👨‍💻 Summary
+
+Middle iOS Developer with development and teaching experience since 2018.  
+Author of a comprehensive Junior iOS-Developer course at SwiftBook, covering the full iOS stack: Swift, UIKit, SwiftUI, architectural patterns (MVC, MVVM, VIPER, CleanSwift), databases (Core Data, Realm, SwiftData), networking, testing, and mentoring.  
+Looking for a role in a product-focused team that values engineering culture, architectural clarity, and modern best practices.
 
 ---
 
 ## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=swift,swiftui,uikit,combine,coredata,realm,git,xcode,spm,postman&theme=dark" />
+</p>
 
 ### Languages
 - Swift
@@ -26,14 +44,6 @@
 - MVVM
 - VIPER
 - Clean Swift
-
----
-
-## 👨‍💻 Summary
-
-Middle iOS Developer with development and teaching experience since 2018.  
-Author of a comprehensive Junior iOS-Developer course at SwiftBook, covering the full iOS stack: Swift, UIKit, SwiftUI, architectural patterns (MVC, MVVM, VIPER, CleanSwift), databases (Core Data, Realm, SwiftData), networking, testing, and mentoring.  
-Looking for a role in a product-focused team that values engineering culture, architectural clarity, and modern best practices.
 
 ---
 
@@ -77,10 +87,11 @@ Looking for a role in a product-focused team that values engineering culture, ar
 
 ---
 
-## ✍️ Publications
+## 🧠 Principles & Interests
 
-- [Medium Blog](https://medium.com/@debash)
-- [Habr Profile](https://habr.com/ru/users/Debash/articles/)
+- Clean architecture, SOLID, scalability
+- Best practices over quick hacks
+- Passion for teaching and community contribution
 
 ---
 
@@ -92,19 +103,32 @@ Looking for a role in a product-focused team that values engineering culture, ar
 
 ---
 
+## ✍️ Publications
+
+- [Medium Blog](https://medium.com/@debash)
+- [Habr Profile](https://habr.com/ru/users/Debash/articles/)
+
+---
+
 ## 📄 Resume Downloads
 
-- [PDF (EN)](./Alexey_Efimov_CV.pdf)
-- [PDF (RU)](./Ефимов_Алексей_CV.pdf)
+- [![PDF_CV (EN)](https://img.shields.io/badge/📄_Download_PDF_CV_(EN)-blue)](./Alexey_Efimov_CV.pdf)
+- [![PDF_CV (EN)](https://img.shields.io/badge/📄_Download_PDF_CV_(RU)-red)](./Ефимов_Алексей_CV.pdf)
 
 
 ---
 
-## 🧠 Principles & Interests
+## 🏆 GitHub Trophy
 
-- Clean architecture, SOLID, scalability
-- Best practices over quick hacks
-- Passion for teaching and community contribution
+  
+
+<p align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=LexDeBash&theme=onedark" />
+
+</p>
+
+  
 
 ---
 
