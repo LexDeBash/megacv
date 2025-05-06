@@ -9,14 +9,6 @@
 
 ---
 
-## 👨‍💻 Summary
-
-Middle iOS Developer with development and teaching experience since 2018.  
-Author of a comprehensive Junior iOS-Developer course at SwiftBook, covering the full iOS stack: Swift, UIKit, SwiftUI, architectural patterns (MVC, MVVM, VIPER, CleanSwift), databases (Core Data, Realm, SwiftData), networking, testing, and mentoring.  
-Looking for a role in a product-focused team that values engineering culture, architectural clarity, and modern best practices.
-
----
-
 ## 🧰 Tech Stack
 
 ### Languages
@@ -34,6 +26,14 @@ Looking for a role in a product-focused team that values engineering culture, ar
 - MVVM
 - VIPER
 - Clean Swift
+
+---
+
+## 👨‍💻 Summary
+
+Middle iOS Developer with development and teaching experience since 2018.  
+Author of a comprehensive Junior iOS-Developer course at SwiftBook, covering the full iOS stack: Swift, UIKit, SwiftUI, architectural patterns (MVC, MVVM, VIPER, CleanSwift), databases (Core Data, Realm, SwiftData), networking, testing, and mentoring.  
+Looking for a role in a product-focused team that values engineering culture, architectural clarity, and modern best practices.
 
 ---
 
@@ -60,20 +60,20 @@ Looking for a role in a product-focused team that values engineering culture, ar
 
 ---
 
-## 🧪 Framework Demo
+## 🚀 Projects & Frameworks
 
+### 🧱 Frameworks
 - 📦 [SpringAnimation](https://github.com/LexDeBash/SpringAnimation) — custom animation framework for iOS  
-- 🧪 [SpringApp](https://github.com/LexDeBash/SpringApp) — demo project for testing the framework (not published to the App Store)
+- 🧪 [SpringApp](https://github.com/LexDeBash/SpringApp) — demo project for testing the framework (not on App Store)
 
----
+### ✅ Applications
+- ✅ [JustDoIt](https://github.com/LexDeBash/JustDoIt) — task manager using UIKit and Core Data with MVC  
+- 🎮 [RickAndMorty](https://github.com/LexDeBash/RickAndMorty) — iOS app consuming the Rick & Morty API using MVC and async network layer
 
-## 📂 Selected Projects
-
-- 🎮 [RickAndMorty](https://github.com/LexDeBash/RickAndMorty) — iOS app consuming the Rick & Morty API using MVC and async network layer  
-- 🎮 [DoodleJump](https://github.com/LexDeBash/DoodleJump) — a classic iOS arcade game clone built with SwfitUI  
-- 🐍 [Snake](https://github.com/LexDeBash/Snake) — classic Snake game implemented in Swift with SwiftUI  
-- 🐤 [FlappyBird](https://github.com/LexDeBash/FlappyBird) — iOS version of Flappy Bird built with SwiftUI
-- ✅ [JustDoIt](https://github.com/LexDeBash/JustDoIt) — task manager app using MVC and Core Data
+### 🎮 Games
+- 🎮 [DoodleJump](https://github.com/LexDeBash/DoodleJump) — arcade game clone built with UIKit and SpriteKit  
+- 🐍 [Snake](https://github.com/LexDeBash/Snake) — classic grid-based Snake game in Swift  
+- 🐤 [FlappyBird](https://github.com/LexDeBash/FlappyBird) — SpriteKit-based Flappy Bird clone with physics and scoring
 
 ---
 
