@@ -1,8 +1,3 @@
-
-<p align="right">
-  🇷🇺 Русский | <a href="https://lexdebash.github.io/megacv/en/">🇬🇧 English</a>
-</p>
-
 <p align="center">
   <img src="https://unavatar.io/github/LexDeBash" alt="Alexey Efimov" width="300" height="300">
 </p>
