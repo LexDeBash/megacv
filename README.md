@@ -4,7 +4,7 @@
 📍 Saint Petersburg, Russia  
 📫 Email: [lex.efimov@gmail.com](mailto:lex.efimov@gmail.com)  
 💬 Telegram: [@debash](https://t.me/debash)  
-💼 LinkedIn: [Алексей Ефимов](https://www.linkedin.com/in/алексей-ефимов-965068129)  
+💼 LinkedIn: [Aleksey Efimov](https://www.linkedin.com/in/алексей-ефимов-965068129)  
 🛠 GitHub: [github.com/LexDeBash](https://github.com/LexDeBash)
 
 ---
