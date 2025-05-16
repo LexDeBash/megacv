@@ -14,7 +14,7 @@
 
 ## Обо мне
 
-**iOS-разработчик уровня Middle**
+**iOS-разработчик**
 
 Специализируюсь на UIKit, SwiftUI, архитектурах (MVC, MVVM, VIPER, CleanSwift), Core Data, Realm, SwiftData и построении масштабируемых решений.
   
