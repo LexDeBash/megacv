@@ -1,129 +1,97 @@
 <p align="center">
-  <img src="https://unavatar.io/github/LexDeBash" alt="Alexey Efimov" width="300" height="300">
+  <img src="./avatar.jpg" alt="Алексей Ефимов" width="220" height="220">
 </p>
 
-<h1 align="center">Алексей Ефимов — iOS-разработчик</h1>
+<h1 align="center">Алексей Ефимов</h1>
 
-**Город:** Санкт-Петербург  
-**Email:** [lex.efimov@gmail.com](mailto:lex.efimov@gmail.com)  
-**Telegram:** [@debash](https://t.me/debash)  
-**LinkedIn:** [Алексей Ефимов](https://www.linkedin.com/in/алексей-ефимов-965068129)  
-**GitHub:** [github.com/LexDeBash](https://github.com/LexDeBash)
+<p align="center"><strong>Senior iOS Developer · Lead iOS Developer</strong></p>
 
----
+<p align="center">
+  Санкт-Петербург ·
+  <a href="mailto:lex.efimov@gmail.com">Email</a> ·
+  <a href="https://t.me/debash">Telegram</a> ·
+  <a href="https://www.linkedin.com/in/алексей-ефимов-965068129">LinkedIn</a> ·
+  <a href="https://github.com/LexDeBash">GitHub</a>
+</p>
 
-## Обо мне
+<p align="center"><a href="./README.en.md">English version</a></p>
 
-**iOS-разработчик**
+## Профиль
 
-Специализируюсь на UIKit, SwiftUI, архитектурах (MVC, MVVM, VIPER, CleanSwift), Core Data, Realm, SwiftData и построении масштабируемых решений.
-  
-**Ищу позицию в продуктовой команде, где ценят инженерный подход, архитектурную чистоту и следование best practices.**
+Senior iOS Developer и действующий Lead iOS Developer с hands-on фокусом на продуктовой разработке, архитектуре и надёжной поставке iOS-приложений. Разрабатываю и модернизирую production-приложения на Swift, SwiftUI и UIKit, лично беру сложные и UI-heavy задачи, проектирую архитектурные изменения, развиваю тестовую инфраструктуру и релизные процессы.
 
----
+В команде из двух iOS-разработчиков руководил работой второго разработчика, оставаясь основным исполнителем сложной функциональности и координируя поставку с аналитиками, дизайном, backend, Android и QA.
 
-## Ключевые навыки
+## Недавний коммерческий опыт
 
-### Языки
-- Swift
+### ООО «Квантрон» — Lead iOS Developer
 
-### Фреймворки и инструменты
-- SwiftUI, UIKit, Combine, Observation
-- Core Data, Realm, SwiftData
-- URLSession, Alamofire, async/await
-- Unit Testing, UI Testing, TDD
-- SPM, Git, Postman
+Август 2025 — настоящее время
 
-### Архитектуры
-- MVC
-- MVVM
-- VIPER
-- Clean Swift
+Работаю над двумя iOS-продуктами:
 
----
+- **Qonnect** — защищённый мессенджер на базе Matrix.
+- **Avtoban** — мобильное приложение для автоматизации дорожного строительства.
 
-## Опыт работы
+Ключевые результаты:
 
-### Swiftbook (2018 – н.в.)  
-**iOS Developer**
-- Разрабатывал приложения с чистой архитектурой и переиспользуемыми компонентами
-- Реализовывал масштабируемые решения с акцентом на модульность и слабую связность компонентов
-- Применял современные архитектуры (MVC, MVVM, VIPER, Clean Swift), базы данных (Core Data, Realm), асинхронность и тестирование
-- Создал и выпустил курс по iOS-разработке с нуля до middle-уровня, записал более 100 уроков
-- Настроил методологию преподавания и выстроил модульную структуру курса от основ до продвинутых тем
-- Продвигал best practices и менторил начинающих разработчиков и преподавателей школы
+- Реализовал в Qonnect поиск по ранее не загруженной истории сообщений, сценарии работы с медиагруппами и надёжную навигацию к сообщениям вне текущего окна таймлайна.
+- Повысил надёжность VoIP и CallKit, разделил состояние одновременных входящих вызовов и подтвердил новый жизненный цикл 65 unit-тестами.
+- Завершил миграцию приложения на Observation, устранил регрессию перерисовок и асинхронную гонку, подтвердив изменения 92 тестами.
+- По запросу руководителя определил технический контур CI/CD, спроектировал и внедрил автоматические проверки, TestFlight-доставку и release-note assembly.
+- Восстановил nightly UI- и accessibility-контур: 42 UI- и 215 accessibility-тестов проходят стабильно.
+- На Qonnect лично перевёл в Resolved 238 подтверждённых задач; 83,6% прошли без возврата из QA после первой сдачи, 96,6% потребовали не более одной итерации.
+- На Avtoban выстроил процесс поставки от декомпозиции и архитектуры до code review и проверки перед QA; сформировал стандарты MVVM-C и вёл поэтапную модернизацию большого UIKit-приложения.
+- Реализовал iOS-часть интеграции Avtoban с внешней телематической системой: загрузку и фильтрацию сессий техники, массовое назначение работ, локальное хранение и синхронизацию с backend.
 
-### Open Source / Pet Projects (2020–н.в.)  
-**iOS-разработчик**
-- Разработал и поддерживаю фреймворк по работе с анимациями и приложение, демонстрирующее его возможности
-- Публиковал собственные приложения в App Store
-- Участвовал в open-source
-- Поддерживаю репозитории с demo-приложениями и архитектурными шаблонами  
+### ООО «Квантрон» — iOS Developer
 
-### Автоматизация и аналитика (2000–2016)  
-**Системный аналитик / Руководитель**
-- Опыт руководства, аналитики и автоматизации в ряде компаний (Парус, ИСК, Информ-Стандарт, Лотерейные технологии)
-- Последняя должность — владелец и руководитель компании по разработке лотерейных технологий
+Июнь 2025 — июль 2025
 
----
+- Разрабатывал продуктовые сценарии Avtoban и модернизировал legacy UIKit-код до назначения Lead iOS Developer.
+- Реализовал offline continuity и упростил сменные рапорты, заменив последовательные операции пакетными действиями.
+
+## SwiftBook
+
+### Автор технической программы, ведущий преподаватель и академический руководитель
+
+Апрель 2018 — 2025
+
+- Создал и непрерывно развивал 6 технических модулей и 48 занятий шестимесячного флагманского курса «iOS-разработчик с нуля».
+- Лично провёл около 40 из 46 потоков и руководил приглашёнными преподавателями, работавшими по его технической программе.
+- К 2021 году курс окончили более 1000 студентов.
+- После выхода в ООО «Квантрон» продолжил преподавание примерно два месяца только для завершения уже начатого последнего потока.
+
+## Технический профиль
+
+- **iOS:** Swift, SwiftUI, UIKit, Observation, Swift Concurrency, URLSession.
+- **Архитектура:** MVVM-C, Coordinator, dependency injection, service и repository layers, DTO/domain mapping.
+- **Хранение:** Core Data, SwiftData, UserDefaults, локальное хранение и offline-сценарии.
+- **Платформа:** CallKit, VoIP push, app lifecycle, passcode lock, Matrix Rust SDK.
+- **Качество:** unit, snapshot, UI и accessibility testing, Sentry.
+- **Delivery:** GitLab CI/CD, Fastlane, TestFlight, release automation, code review и pre-QA validation.
+
+## Open Source
+
+- [SpringAnimation](https://github.com/LexDeBash/SpringAnimation) — Swift-фреймворк для декларативной настройки и запуска анимаций.
+- [SpringApp](https://github.com/LexDeBash/SpringApp) — демонстрационное приложение для интерактивного просмотра анимаций и параметров SpringAnimation.
+
+## Ранний опыт
+
+- Руководил отделом программного обеспечения из четырёх специалистов, оптимизировал процессы и запустил новое консалтинговое направление.
+- Руководил проектной командой из трёх разработчиков и одного методолога в проектах корпоративной автоматизации; отвечал за требования, постановку задач, внедрение и взаимодействие с заказчиками.
 
 ## Образование
 
-**Академия труда и социальных отношений, Москва.**
-
-*Специальность: Бухгалтерский учёт и аудит*
-
----
-
-## Проекты и фреймворки
-
-### Фреймворки
-
-- [SpringAnimation](https://github.com/LexDeBash/SpringAnimation) — кастомный анимационный фреймворк  
-- [SpringApp](https://github.com/LexDeBash/SpringApp) — демо-приложение для тестирования фреймворка (не опубликовано)
-
-### Приложения
-
-- [JustDoIt](https://github.com/LexDeBash/JustDoIt) — менеджер задач на UIKit и Core Data  
-- [Basic](https://github.com/LexDeBash/Basic) — коллекция упражнений и базовых шаблонов
-
-### Игры
-
-- [DoodleJump](https://github.com/LexDeBash/DoodleJump) — аркада с физикой на SpriteKit  
-- [Snake](https://github.com/LexDeBash/Snake) — реализация классической "Змейки"  
-- [FlappyBird](https://github.com/LexDeBash/FlappyBird) — Flappy Bird с физикой и подсчётом очков
-
----
-
-## Преподавание и менторство
-
-- Автор полного курса по iOS-разработке (60+ уроков)
-- Темы: UIKit, SwiftUI, сеть, базы данных, архитектура, тестирование
-- Наставничество в формате 1-на-1 и групповых занятий
-
----
+**Академия труда и социальных отношений, Москва**  
+Бухгалтерский учёт и аудит
 
 ## Публикации
 
-- [Medium](https://medium.com/@debash)  
+- [Medium](https://medium.com/@debash)
 - [Хабр](https://habr.com/ru/users/Debash/articles/)
-
----
 
 ## Резюме
 
-- [![PDF_CV (EN)](https://img.shields.io/badge/📄_Download_PDF_CV_(RU)-red)](./Алексей_Ефимов_CV.pdf)
-
----
-
-## GitHub Трофеи
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LexDeBash&theme=onedark" />
-</p>
-
----
-
-## GitHub Статистика
-
-![Stats](https://github-readme-stats.vercel.app/api?username=LexDeBash&show_icons=true&theme=onedark)
+- [Русская версия PDF](./alexey-efimov-resume-ru.pdf)
+- [English PDF](./alexey-efimov-resume-en.pdf)
